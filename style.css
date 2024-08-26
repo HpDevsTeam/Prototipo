@@ -1,0 +1,202 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    max-width: 100%;
+}
+body{
+    background-color: brown;
+    color: white;
+}
+.navwrap{
+    display: flex;
+    align-items: center;
+}
+.seguralogo{
+    margin: auto;
+}
+.seguramenu{
+    margin: auto;
+}
+.nav ul{
+   list-style: none;
+}
+.nav li{
+    display: inline-block;
+    padding: 20px;
+}
+.seguralupa{
+    margin: auto;
+}
+.logo img{
+    width: 100px;
+}
+.lupa img{
+    width: 30px;
+}
+.segurapostagens{
+   
+}
+.wrap{
+    display: flex;
+}
+.postagens{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.posters{
+    padding: 20px;
+}
+.posters img{
+    width: 220px;
+}
+.proximo{
+    display: flex;
+    justify-content: center;
+}
+.proximo p{
+    padding: 20px;
+}
+.proximo img{
+    width: 20px;
+}
+.lateral{
+    margin-right: 30px;
+}
+.redes{
+    display: flex;
+    background-color: rgb(133, 111, 111);
+    justify-content: center;
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.redes img{
+    width: 30px;
+}
+.ads{
+    display: flex;
+    background-color: rgb(133, 111, 111);
+    justify-content: center;
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.quadroads{
+    background-color: rgb(111, 126, 133);
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    height: 250px;
+}
+.maisvisitadas{
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    width: 300px;
+    height: 70px;
+}
+.maisvisitadas img{
+    width: 30px;
+    margin: auto;
+}
+.maisvisitadas p{
+    background-color: orange;
+    padding: 5px;
+    margin: auto;
+}
+.quadrovisitas{
+    background-color: rgb(111, 126, 133);
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+
+}
+.siga{
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    width: 300px;
+    height: 70px;
+}
+.siga p{
+    background-color: orange;
+    padding: 5px;
+    margin: auto;
+}
+.siga img{
+    width: 30px;
+    margin: auto;
+}
+.marcadores{
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    width: 300px;
+    height: 70px;
+}
+.marcadores p{
+    background-color: orange;
+    padding: 5px;
+    margin: auto;
+}
+.marcadores img{
+    width: 30px;
+    margin: auto;
+}
+.quadromarcadores{
+    background-color: rgb(111, 126, 133);
+    display: flex;
+    justify-content: center;
+    width: 300px;
+}
+.segura{
+    display: flex;
+    align-items: center;
+    padding: 50px;
+    background-color: rgb(39, 31, 31);
+}
+.icons{
+    display: flex;
+    text-align: center;
+}
+.icons img{
+    width: 30px;
+}
+.seguraiconsprivacidade{
+    margin: auto;
+}
+.ajuda,.contato,.politica{
+    padding: 20px;
+}
+.segurak{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.mak1{
+    display: flex;
+    padding: 5px;
+    margin: 5px;
+}
+.mak1 img{
+    width: 30px;
+}
+.segurapo{
+    display: flex;
+    flex-wrap: wrap;
+}
+.visitass{
+    margin: 10px;
+}
+.visitass img{
+    width: 130px;
+}
+.ffas video{
+    width: 300px;
+    height: 250px;
+}
