@@ -3,9 +3,12 @@
     margin: 0px;
     padding: 0px;
     max-width: 100%;
+    
 }
 body{
-    background-color: brown;
+    background-image: url(imagens/fundo/fundo.svg);
+        background-size: cover;
+        background-attachment: fixed;
     color: white;
 }
 .navwrap{
